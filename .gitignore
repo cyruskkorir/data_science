@@ -1,0 +1,4 @@
+jh_test
+\.ipynb_checkpoints
+**\__pycache__**
+.env
