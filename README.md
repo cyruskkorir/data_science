@@ -6,7 +6,7 @@
 
 ## Getting started
 
-- clone the repo: `https://github.com/Levy-Naibei/flask_mongo.git`
+- clone the repo: `https://github.com/cyruskkorir/data_science.git`
 - `cd` root directory
 - Create `.env` file and add variables as shown in `env.sample` file
 - Connect the flask App to MongoDb using `MONGO_URI`
